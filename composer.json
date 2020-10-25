@@ -1,0 +1,11 @@
+{
+    "name": "jonathanbossenger/wp-phpdocumentor-reflection",
+    "description": "WordPress Reflection Package for phpDocumentor",
+    "authors": [
+        {
+            "name": "Jonathan Bossenger",
+            "email": "jonathanbossenger@gmail.com"
+        }
+    ],
+    "require": {}
+}
