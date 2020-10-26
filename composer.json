@@ -1,6 +1,11 @@
 {
     "name": "jonathanbossenger/wp-phpdocumentor-reflection",
     "description": "WordPress Reflection Package for phpDocumentor",
+    "autoload": {
+        "psr-4": {
+            "WPPHPDocumentorReflection\\": "src"
+        }
+    },
     "authors": [
         {
             "name": "Jonathan Bossenger",
